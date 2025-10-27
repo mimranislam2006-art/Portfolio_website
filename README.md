@@ -16,15 +16,15 @@ I enjoy building efficient solutions, exploring new technologies, and contributi
 
 ## 🎓 Education
 
-- **Bachelor of Science in Computer Science**  
-  [Your University Name], [City, Country]  
-  _Graduation Year: 20XX_
+- **Under Graduate in Computer Science-First semester**  
+  [FAST National university], [Faisalabad, Pakistan]  
+ 
 
 ---
 
 ## 🛠️ Skills
 
-**Programming Languages:** C++, Python, MATLAB, HTML, CSS, JavaScript  
+**Programming Languages:** C++, MATLAB, HTML, CSS, JavaScript  
 **Frameworks & Tools:** Git, Visual Studio Code, MATLAB, MS Office  
 **Core Competencies:** Problem Solving, Logical Thinking, Data Analysis, Team Collaboration  
 
