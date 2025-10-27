@@ -53,9 +53,8 @@ You can view or download my resume here:
 
 ## 📫 Contact
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** m.imranislam2006@gmail.com  
+- **GitHub:**  mimranislam2006-art.github.com
 
 ---
 
