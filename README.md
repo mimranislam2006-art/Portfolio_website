@@ -1,6 +1,12 @@
-# Portfolio_website
-This is my first github Assignment
-<img src=" https://1drv.ms/i/c/c1d4c36cf775f210/Eb4sBQIyJMFKiMjYdl9piAkBDuGMJU_kq-8NN-Q8pkGxMg?e=CJwraA" alt="My Profile Picture" width="200">
+# Portfolio_website 
+  <img src="https://github.com/user-attachments/assets/5b9c5321-f041-48c7-931d-269c524c46fb" 
+       alt="Profile" width="300" style="border-radius:50%; object-fit:cover;">
+</div>
+    
+ 
+
+
+ 
 
 # 💼 M. Imran — Resume
 
@@ -17,10 +23,18 @@ I enjoy building efficient solutions, exploring new technologies, and contributi
 ---
 
 ## 🎓 Education
+- **Matric from Govt.Islamia High School Jinnah Colony, Faisalabad**
+  
+  ![download](https://github.com/user-attachments/assets/9b08a2cf-5e04-4ae7-8b2b-05ea13d30bdf)
+
+- **FSC-Pre Engineering from KIPS Coleege Jail road, Fasisalabad**
+
+  ![images](https://github.com/user-attachments/assets/d5cf9a05-88b1-4a28-bb60-fdc19fcd5a96)
 
 - **Under Graduate in Computer Science-First semester**  
   [FAST National university], [Faisalabad, Pakistan]  
- 
+ ![download](https://github.com/user-attachments/assets/1f18aad0-3d48-4e6b-a394-79a2c1f39bb9)
+
 
 ---
 
@@ -57,7 +71,7 @@ You can view or download my resume here:
 
 - **Email:** m.imranislam2006@gmail.com  
 - **GitHub:**  mimranislam2006-art.github.com
-
+- **Instagram** imran_mughal_95
 ---
 
 ## 🧠 Interests
