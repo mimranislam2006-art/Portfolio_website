@@ -1,5 +1,7 @@
 # Portfolio_website
 This is my first github Assignment
+<img src=" https://1drv.ms/i/c/c1d4c36cf775f210/Eb4sBQIyJMFKiMjYdl9piAkBDuGMJU_kq-8NN-Q8pkGxMg?e=CJwraA" alt="My Profile Picture" width="200">
+
 # 💼 M. Imran — Resume
 
 Welcome to my **digital resume repository**!  
