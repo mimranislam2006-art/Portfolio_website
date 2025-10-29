@@ -1,7 +1,13 @@
 # Portfolio_website 
-  <img src="https://github.com/user-attachments/assets/5b9c5321-f041-48c7-931d-269c524c46fb" 
-       alt="Profile" width="300" style="border-radius:50%; object-fit:cover;">
+
+  <center>
+     <img src= "https://github.com/user-attachments/assets/a0484049-628b-432d-965f-a862e8572405"
+      alt="Profile" width="250" style="border-radius:50%; object-fit:cover;">
+</center>
+
+ 
     
+
  
 
 
