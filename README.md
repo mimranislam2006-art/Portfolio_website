@@ -2,7 +2,7 @@
 
   <center>
      <img src= "https://github.com/user-attachments/assets/a0484049-628b-432d-965f-a862e8572405"
-      alt="Profile" width="250" style="border-radius:100%; object-fit:cover;">
+      alt="Profile" width="250"  object-fit:cover;">
  
 </center>
 
