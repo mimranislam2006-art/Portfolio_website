@@ -11,7 +11,7 @@
 # 💼 M. Imran — Resume
 
 Welcome to my **digital resume repository**!  
-This repository contains my professional resume and related materials, including my **academic background**, **skills**, **projects**, and **career highlights**.  
+This repository contains my professional resume and related materials, including my **academic background**, **skill**, **projects**, and **career highlights**.  
 
 ---
 
